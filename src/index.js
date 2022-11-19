@@ -6,6 +6,7 @@ const fusionAuth_config = require('../fusionauth_config.json')
 
 config.port = config.konrad.port
 config.port_react = config.konrad.port_react
+config.session_secret = config.konrad.session_secret
 config.fusionauth = fusionAuth_config
 
 const frontend_dir = path.join(__dirname, "..", "..", "react", "build")
