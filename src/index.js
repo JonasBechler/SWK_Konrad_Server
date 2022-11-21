@@ -9,10 +9,10 @@ config.port_react = config.konrad.port_react
 config.session_secret = config.konrad.session_secret
 config.fusionauth = fusionAuth_config
 
-const frontend_dir = path.join(__dirname, "..", "..", "react", "build")
+const frontend_dir = path.join(__dirname, "..", "..", "SWK_Konrad_React", "build")
 const userDataPath = path.join(__dirname, "..", "data", "accounts.json")
 
-var app = require('./SWK_Server_Template/src/main')(config, userDataPath)
+var app = require('./SWK_Server_Template/src/main')(config, userDataPath, frontend_dir)
 
 
 app.listen(config.port);
