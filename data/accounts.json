@@ -1,36 +1,34 @@
 {
     "details": {
+        "uuid": "Account ID",
         "email": "E-Mail",
         "password": "Passwort",
         "first_name": "Vorname",
         "last_name": "Nachname",
         "bank_connection": "Bankverbingung",
-        "mobile": "Handynummer"
+        "mobile": "Handynummer",
+        "fusionauth_id": "FusionAuth ID"
     },
     "users": [
         {
-            "email": "jonas@bechler.de",
-            "password": "test",
-            "first_name": "Jonas",
-            "last_name": "Bechler",
-            "bank_connection": "DKB",
-            "mobile": "1522"
-        },
-        {
-            "email": "jonasbechler@gmail.com",
-            "password": "a",
-            "first_name": "a",
-            "last_name": "a",
-            "bank_connection": "a",
-            "mobile": "a"
-        },
-        {
+            "uuid": "326921f7-44cd-4b2c-8b06-ff1a9053c588",
             "email": "a",
             "password": "a",
             "first_name": "a",
             "last_name": "a",
             "bank_connection": "a",
-            "mobile": "a"
+            "mobile": "a",
+            "fusionauth_id": "16024b0d-260b-49cb-b43d-e1d22338d74c"
+        },
+        {
+            "uuid": "ff130c50-e67c-45ef-97c5-0093429c31fe",
+            "email": "b",
+            "password": "b",
+            "first_name": "b",
+            "last_name": "b",
+            "bank_connection": "b",
+            "mobile": "b",
+            "fusionauth_id": ""
         }
     ]
 }
