@@ -7,7 +7,7 @@
         "last_name": "Nachname",
         "bank_connection": "Bankverbingung",
         "mobile": "Handynummer",
-        "fusionauth_id": "FusionAuth ID"
+        "knlogin_id": "FusionAuth ID"
     },
     "users": [
         {
@@ -18,7 +18,7 @@
             "last_name": "a",
             "bank_connection": "a",
             "mobile": "a",
-            "fusionauth_id": "16024b0d-260b-49cb-b43d-e1d22338d74c"
+            "knlogin_id": "16024b0d-260b-49cb-b43d-e1d22338d74c"
         },
         {
             "uuid": "ff130c50-e67c-45ef-97c5-0093429c31fe",
@@ -28,7 +28,7 @@
             "last_name": "b",
             "bank_connection": "b",
             "mobile": "b",
-            "fusionauth_id": ""
+            "knlogin_id": ""
         }
     ]
 }
