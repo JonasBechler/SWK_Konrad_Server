@@ -29,6 +29,17 @@
             "bank_connection": "b",
             "mobile": "b",
             "knlogin_id": ""
+        },
+        {
+            "uuid": "",
+            "email": "maxmuster@web.de",
+            "password": "schwach",
+            "first_name": "Max",
+            "last_name": "Muster",
+            "bank_connection": "DE000000000",
+            "mobile": "0123-4567890",
+            "knlogin_id": "0d8b1119-4f11-40e1-b9c7-e74cec72cbd8",
+            "account_id": "91f7d580-42da-41d1-9f73-ff7d5019af46"
         }
     ]
 }
