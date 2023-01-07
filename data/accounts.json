@@ -14,6 +14,19 @@
         "knlogin_id": "FusionAuth ID"
     },
     "users": [
-        
+        {
+            "account_id": "b4a55de0-8f73-4033-978b-a973b698153c",
+            "email": "maxmuster@web.de",
+            "password": "schwach",
+            "first_name": "Max",
+            "last_name": "Muster",
+            "adresse": "Musterstr. 5",
+            "city": "Konstanz",
+            "plz": "78462",
+            "iban": "DE00 0000 1234 0000",
+            "bic": "AAAA0000",
+            "mobile": "0123 0123456",
+            "knlogin_id": "0d8b1119-4f11-40e1-b9c7-e74cec72cbd8"
+        }
     ]
 }
