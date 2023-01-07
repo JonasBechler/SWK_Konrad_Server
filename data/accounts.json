@@ -1,45 +1,19 @@
 {
     "details": {
-        "uuid": "Account ID",
+        "account_id": "Account ID",
         "email": "E-Mail",
         "password": "Passwort",
         "first_name": "Vorname",
         "last_name": "Nachname",
-        "bank_connection": "Bankverbingung",
+        "adresse": "Strasse & Nr.",
+        "city": "Stadt",
+        "plz": "PLZ",
+        "iban": "IBAN",
+        "bic": "BIC",
         "mobile": "Handynummer",
         "knlogin_id": "FusionAuth ID"
     },
     "users": [
-        {
-            "uuid": "326921f7-44cd-4b2c-8b06-ff1a9053c588",
-            "email": "a",
-            "password": "a",
-            "first_name": "a",
-            "last_name": "a",
-            "bank_connection": "a",
-            "mobile": "a",
-            "knlogin_id": "16024b0d-260b-49cb-b43d-e1d22338d74c"
-        },
-        {
-            "uuid": "ff130c50-e67c-45ef-97c5-0093429c31fe",
-            "email": "b",
-            "password": "b",
-            "first_name": "b",
-            "last_name": "b",
-            "bank_connection": "b",
-            "mobile": "b",
-            "knlogin_id": ""
-        },
-        {
-            "uuid": "",
-            "email": "maxmuster@web.de",
-            "password": "schwach",
-            "first_name": "Max",
-            "last_name": "Muster",
-            "bank_connection": "DE000000000",
-            "mobile": "0123-4567890",
-            "knlogin_id": "0d8b1119-4f11-40e1-b9c7-e74cec72cbd8",
-            "account_id": "91f7d580-42da-41d1-9f73-ff7d5019af46"
-        }
+        
     ]
 }
