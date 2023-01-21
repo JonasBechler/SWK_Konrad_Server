@@ -1,12 +1,8 @@
 
 const path = require('path');
 
-let config = null;
-try{
-    config = require( "../../../config.json");
-}catch(error){
-    config = require( "../config.json");
-}
+const config = require( "../../config.json");
+
 
 config.port = config.konrad.port
 config.port_react = config.konrad.port_react
