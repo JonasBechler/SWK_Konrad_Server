@@ -27,6 +27,20 @@
             "bic": "AAAA0000",
             "mobile": "0123 0123456",
             "knlogin_id": "0d8b1119-4f11-40e1-b9c7-e74cec72cbd8"
+        },
+        {
+            "account_id": "74dfa075-445f-4a70-96d2-99a5a6cf7438",
+            "email": "jonas@bechler.de",
+            "password": "nichts ups",
+            "first_name": "Jonas",
+            "last_name": "Bechler",
+            "adresse": "Wessenbergstr. 31",
+            "city": "Konstanz",
+            "plz": "123",
+            "iban": "123",
+            "bic": "123",
+            "mobile": "123",
+            "knlogin_id": "8523551b-440a-424a-8397-6712b1d4dd6d"
         }
     ]
 }

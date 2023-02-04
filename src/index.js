@@ -11,7 +11,7 @@ config.fusionauth = config.konrad.fusionauth
 const frontend_dir = path.join(__dirname, "..", "SWK_Konrad_React", "build")
 const userDataPath = path.join(__dirname, "..", "data", "accounts.json")
 
-var app = require('./SWK_Server_Template/src/main')(config, userDataPath, frontend_dir)
+var app = require('./SWK_Server_Template/src/extern/main')(config, userDataPath, frontend_dir)
 
 
 app.listen(config.port);
